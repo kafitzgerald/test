@@ -1,6 +1,7 @@
 ---
 name: Notebook Proceedings Review
-description: Use this form to review a notebook proceedings submission.
+about: Use this form to review a notebook proceedings submission.
+title: 'Notebook Proceedings Review'
 labels: under-review
 assignees: ''
 
