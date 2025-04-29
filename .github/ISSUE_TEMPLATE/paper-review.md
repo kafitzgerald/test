@@ -1,10 +1,10 @@
-___
+---
 name: Notebook Proceedings Review
 description: Use this form to review a notebook proceedings submission.
 labels: under-review
 assignees: ''
 
-___
+---
 
 # Content Review Process
 
