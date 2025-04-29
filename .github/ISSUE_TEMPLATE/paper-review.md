@@ -1,11 +1,15 @@
 ---
-name: Notebook Proceedings Review
+name: Paper Review
 about: Use this form to review a notebook proceedings submission.
-title: 'Notebook Proceedings Review'
+title: 'ISS Proceedings Review'
 labels: under-review
 assignees: ''
 
 ---
+
+<!--
+Note: Please create an issue based upon this template and check off the boxes as you complete the review process.
+-->
 
 # Content Review Process
 
